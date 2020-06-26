@@ -1,2 +1,2 @@
-# falloftroy-mockup
-Mockup of a modern website for the band Fall of Troy.
+# band-site-mockup
+Mockup of a modern website for a band.
