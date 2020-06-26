@@ -6,7 +6,7 @@ else {
 }
 
 var playState = false;
-var music = new Sound('music/fcpremix.mp3', 0, true)
+var music = new Sound('music/fcpremix.mp3', 20, true)
 
 function ready() {
     var playButton = document.getElementsByClassName('btn-play')[0]
